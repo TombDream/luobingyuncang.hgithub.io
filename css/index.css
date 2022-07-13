@@ -1,0 +1,62 @@
+.qju {
+    margin: 0 auto;
+    width: 1200px;
+
+}
+
+
+/* 头部css */
+
+.Nav {
+    background-color: #f5f5f5;
+}
+
+.log {
+    width: 1200px;
+    height: 100px;
+}
+
+img {
+    width: 200px;
+}
+
+.byu {
+    display: inline;
+    font-size: 20px;
+}
+
+.Nav ul {
+    width: 500px;
+    display: inline;
+    float: right;
+}
+
+.Nav li {
+    display: inline;
+    height: 100px;
+    line-height: 100px;
+    font-size: 25px;
+    padding: 0 20px;
+}
+
+/* 头部css结束 */
+
+
+/* 介绍部分 */
+p {
+    font-size: 20px;
+}
+
+h2 {
+    color: rgb(0, 47, 255);
+    text-align: center;
+    font-size: 30px;
+}
+
+h3 {
+    color: crimson;
+}
+
+/* 结束部分结束 */
+
+

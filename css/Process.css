@@ -1,0 +1,41 @@
+em{
+    color: rgb(255, 0, 0);
+}
+
+.q ul li{
+    font-size: 20px;
+}
+
+.a1,.a2,.b1,.b2,.c1,.c3{
+    width:600px;
+    height:400px;
+}
+
+.a1{
+    float: left;
+}
+.a2{
+    float:right;
+}
+
+.a2 img ,.b2 img,.c2 img{
+    width: 500px;
+}
+
+.b1{
+    float:right;
+}
+.b2{
+    float:left;
+}
+
+.c1{
+    float: left;
+}
+.c2{
+    float:right;
+}
+
+.as{
+    width: 500px;
+}

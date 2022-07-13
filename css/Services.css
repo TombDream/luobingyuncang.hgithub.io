@@ -1,0 +1,116 @@
+.row {
+    width: 1170px;
+    height: 192px;
+}
+
+.row img {
+    width: 100px;
+    height: 100px;
+}
+
+.row1 {
+    width: 194px;
+    height: 240px;
+    /* background-color: aquamarine; */
+    float: left;
+    text-align: center;
+
+}
+
+
+/* row2开始 */
+
+.crow21 img {
+    width: 1200px;
+}
+
+.crow21 p {
+    margin: -51px 0 20px 350px;
+    color: rgb(255, 255, 255);
+}
+
+.crow22 {
+    width: 1200px;
+}
+
+.crow22-1 {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.crow22-1 img {
+    width: 110px;
+}
+
+.crow22-2 {
+    width: 380px;
+    float: left;
+    
+
+}
+.crow22 .bj{
+    width: 1200px;
+    height:200px ;
+    background-color: aquamarine;
+}
+
+.crow22-3 {
+    width: 600px;
+    float: right;
+    font-size: 30px;
+    
+}
+
+.crow22-31 {
+    float: left;
+}
+
+
+
+.crow22-32 {
+    float: right;
+}
+
+
+.crow22-3 p {
+    /* width: 200px; */
+    font-size: 30px;
+}
+
+.crow22-3 .sz1 {
+    position: relative;
+    left: -125px;
+    top: 20px;
+}
+
+
+.crow22-3 .sz2 {
+
+    color: #ff8a00;
+    position: relative;
+    left: 30px;
+    top: 60px;
+
+}
+
+/* row2结束 */
+
+/* row3开始 */
+
+
+.row3 div img{
+    width: 1200px;
+}
+/* row3结束 */
+
+/* row4开始 */
+.row4 div p {
+    text-align: center;
+}
+
+.row4 img{
+    width: 1200px;
+}
+
+/* row4结束 */
